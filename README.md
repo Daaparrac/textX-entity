@@ -1,4 +1,4 @@
-#Ejercicio En Clase - MDA
+# Ejercicio En Clase - MDA
 
 This is an example of a simple Entity DSL.
 
@@ -28,7 +28,7 @@ tool but model can't because it depends on two built-in simple types (`integer`
 and `string`) which must be provided during meta-model instantiation (see
 `entity_test.py` file).
 
-#Usage
+# Usage
 
 To run the example do the following:
 
